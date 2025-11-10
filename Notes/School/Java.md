@@ -27,6 +27,18 @@ Expression is evaluated before and after.
 - for
 
 
+
+## Nested loops
+
+For each iteration of an outer loop, the inner loop executes completely
+
+
+## Loop Termination 
+
+break; - avoid using in a loop
+
+continue; - like a break but the condition is evaluated again
+
 ## Comparing
 Strings contain methods that help with comparing values
     
@@ -34,5 +46,55 @@ Strings contain methods that help with comparing values
     .equals() - boolean
 
 
+# Iteration
+
+process items one at a time
+
+hasNext Method - boolean - 
+
+next method - retrieves next item
+
+Scanner object is an iterator
+
+
+
+## Array List
+An object that stores a list of objects referenced by an integer
+
+An array of Size N is indexed from zero to N (-) 1
+    
+    ArrayList<DataType> - Within the carrots is an element(String, Object, Integer)
+
+Declaring an array uses square brackets
+
+    int[] x = new int[]
+    
+or
+
+    int[] units = {1,2,3,4,5}
+
+Traversing Elements
+    
+    for (int score : scores) {System.out.println(score)}
+
+print using the declared loop variable
+
+
+An entire array can be passed as a parameter
+
+
+# Key Concepts
+
+A scanner uses delimiters to break its input up. Whitespace is the default delimiter
+
+
+
+
+# Key Terms
 Sentinel Value - Specific value used to indicate a condition such as the end of a loop
 
+Palindrome - String of characters that reads the same forward or backward (e.g. radar)
+
+Lambda expression - block of code that could be passed as a parameter
+    
+    push.setOnAction((event) -> {});
