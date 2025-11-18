@@ -88,8 +88,6 @@ An entire array can be passed as a parameter
 A scanner uses delimiters to break its input up. Whitespace is the default delimiter
 
 
-
-
 # Key Terms
 Sentinel Value - Specific value used to indicate a condition such as the end of a loop
 
@@ -98,3 +96,20 @@ Palindrome - String of characters that reads the same forward or backward (e.g. 
 Lambda expression - block of code that could be passed as a parameter
     
     push.setOnAction((event) -> {});
+
+
+Local Variables are declared within a method 
+
+Instance Variables are declared within a class
+
+A Static Variable is a variable that is shared among all objects of said class
+
+
+
+    this. - is an object reference of itself
+
+### Dependence, Aggregation, Inheritrance
+
+
+Aggregation - Composed of other objects to make up its class. Forming has-a relationship
+
