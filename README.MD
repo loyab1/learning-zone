@@ -7,4 +7,4 @@ Here is where I am taking notes on my programming journey
 
 For now it will mostly be Git and Java
 
-[test](./Notes/School/Java%20Class/Data_Expressions.MD)
+[Java Programming Notes](./Notes/School/Java%20Class/)
