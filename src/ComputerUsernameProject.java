@@ -8,8 +8,8 @@ public class ComputerUsernameProject {
     first 5 characters in the last name, followed by a random number
     from the range of 10 to 99
      */
-    String FName;
-    String lastName;
+   private String FName;
+   private String lastName;
     Scanner userInput = new Scanner(System.in);
     Random randomNum = new Random();
 

@@ -7,4 +7,4 @@ Here is where I am taking notes on my programming journey
 
 For now it will mostly be Git and Java
 
-[Java Programming Notes](./Notes/School/Java%20Class/)
+[Java Programming Notes](./School/Notes/)
