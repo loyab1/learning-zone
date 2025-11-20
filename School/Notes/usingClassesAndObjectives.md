@@ -67,7 +67,7 @@ API - Application programming interfaces are classes that are useful to programm
 
 Packages - String Class a part of java.lang package
 
-<img src="./Images/Java%20Packages.png" width = "400" >
+<img src="Images/Java%20Packages.png" width = "400" >
 
 
 ## Dictionary

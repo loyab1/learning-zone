@@ -22,7 +22,7 @@ Escape sequences represent special characters to be used within a string.  Denot
 
 [HTML only works in this document because of intelli idea]: #
 
- <img src="./Images/Escape_Sequences.png" width="250" height="175">
+ <img src="Images/Escape_Sequences.png" width="250" height="175">
 
 ### Variables 
 
